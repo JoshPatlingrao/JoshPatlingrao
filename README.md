@@ -16,7 +16,7 @@ I'm a recent graduate with a profound interest in technology and a dedication to
 </div>
 
 ## Projects
-- Linux Virtual Machine Hardening
+- <a href="https://github.com/JoshPatlingrao/Virtual-Machine-Hardening/tree/main">Linux Virtual Machine Hardening</a>
 <!--
 **JoshPatlingrao/JoshPatlingrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
