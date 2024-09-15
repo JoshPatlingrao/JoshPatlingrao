@@ -7,6 +7,9 @@ I'm a recent graduate with a profound interest in technology and a dedication to
 ## Objective
 
 ## Skills
+- Hardening and securing Linux installations
+- Initialising Arch on Virtualbox using CLI
+- 
 
 ## Certifications
 <div>
