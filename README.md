@@ -21,6 +21,7 @@ I'm a recent graduate with a profound interest in technology and a dedication to
 - <a href="https://github.com/JoshPatlingrao/Filtering-SQL-Queries">Applying Filters to SQL Queries</a>
 - <a href="https://github.com/JoshPatlingrao/Update-Files-Through-Python">Updating a File Through Python</a>
 - <a href="https://github.com/JoshPatlingrao/Security-Incident-Response-with-NIST-Cybersecurity-Framework">Incident Response with NIST Cybersecurity Framework</a>
+- <a href="https://github.com/JoshPatlingrao/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
 <!--
 **JoshPatlingrao/JoshPatlingrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
