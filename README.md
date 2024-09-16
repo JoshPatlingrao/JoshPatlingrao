@@ -40,6 +40,11 @@ I'm a recent graduate with a profound interest in technology and a dedication to
 
 ## Tools
 
+### Programming Languages
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge" />
+</div>
 
 ## Certifications
 <div>
