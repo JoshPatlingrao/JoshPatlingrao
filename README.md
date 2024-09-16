@@ -40,6 +40,16 @@ I'm a recent graduate with a profound interest in technology and a dedication to
 
 ## Tools
 
+### Network
+<div>
+  <img src="https://img.shields.io/badge/Wireshark-4A9C2C?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge" />
+</div>
+
+### SIEM
+<div>
+  <img src="https://img.shields.io/badge/Splunk-0072C6?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge" />
+</div>
+
 ### Programming Languages
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
