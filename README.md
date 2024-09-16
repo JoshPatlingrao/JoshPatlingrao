@@ -6,18 +6,37 @@ I'm a recent graduate with a profound interest in technology and a dedication to
 
 ## Objective
 
-## Skills
-- Hardening and securing Linux installations
-- Initialising Arch on Virtualbox using CLI
-- 
+## Projects and Skills
 
-## Projects
-- <a href="https://github.com/JoshPatlingrao/Virtual-Machine-Hardening/tree/main">Linux Virtual Machine Hardening</a>
-- <a href="https://github.com/JoshPatlingrao/Security-Audit-for-Botium">Security Audit: Botium</a>
-- <a href="https://github.com/JoshPatlingrao/Filtering-SQL-Queries">Applying Filters to SQL Queries</a>
-- <a href="https://github.com/JoshPatlingrao/Update-Files-Through-Python">Updating a File Through Python</a>
-- <a href="https://github.com/JoshPatlingrao/Security-Incident-Response-with-NIST-Cybersecurity-Framework">Incident Response with NIST Cybersecurity Framework</a>
-- <a href="https://github.com/JoshPatlingrao/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
+<a href="https://github.com/JoshPatlingrao/Virtual-Machine-Hardening/tree/main">Linux Virtual Machine Hardening</a>
+- Hardening and securing Linux installations
+- Setting up Linux installation and configuration through CLI.
+- Researching online documentation and applying changes based on the current version of the OS.
+- Generating snapshots with brief descriptions as backups.
+
+<a href="https://github.com/JoshPatlingrao/Security-Audit-for-Botium">Security Audit: Botium</a>
+- Analyzing implementation of various security controls.
+- Analyzing company compliance to standards and regulations.
+- Providing recopmmendations to strengthen security posture based on findings.
+
+<a href="https://github.com/JoshPatlingrao/Filtering-SQL-Queries">Applying Filters to SQL Queries</a>
+- Understanding of SQL database.
+- Filtering information from an SQL database based on set parameters.
+
+<a href="https://github.com/JoshPatlingrao/Update-Files-Through-Python">Updating a File Through Python</a>
+- Developing Python scripts to modify the contents of text files.
+- Converting .txt files to string and reverting it back to .txt file.
+
+<a href="https://github.com/JoshPatlingrao/Security-Incident-Response-with-NIST-Cybersecurity-Framework">Incident Response with NIST Cybersecurity Framework</a>
+- Responding to a security incident using the NIST cybersecurity framework
+- Writing an effective summary of security incident
+- Concisely identifying source of the incident
+- Record the protections deployed, detection methods and reponse of the team to the incident
+- Outline the steps taken to recover from the incident
+
+<a href="https://github.com/JoshPatlingrao/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
+- Assessing the risk of threats to a system based on likelihood and severity
+- Recommending remediations to vulnerabilities based on identified threats
 
 ## Certifications
 <div>
