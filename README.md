@@ -15,6 +15,12 @@ I’m a recent Electronics Engineering graduate who has developed an interest fo
 
 ## Projects and Skills
 
+<a href="https://github.com/JoshPatlingrao/Making-a-SIEM-with-Azure/tree/main">Making a SIEM with Microsoft Azure</a>
+- Creating detection rules for IoCs and configuring its frequency check and severity rating.
+- Creating and a configuring a VM in Microsoft Azure.
+- Fixing RDP connection to prevent it from being publicly exposed and available.
+- Setting up a SIEM using Microsoft Sentinel to monitor the VM as an endpoint.
+
 <a href="https://github.com/JoshPatlingrao/Virtual-Machine-Hardening/tree/main">Linux Virtual Machine Hardening</a>
 - Hardening and securing Linux installations
 - Setting up Linux installation and configuration through CLI.
