@@ -61,6 +61,7 @@ I’m a recent Electronics Engineering graduate who has developed an interest fo
 ### SIEM
 <div>
   <img src="https://img.shields.io/badge/Splunk-0072C6?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel Badge" />
 </div>
 
 ### Programming Languages
