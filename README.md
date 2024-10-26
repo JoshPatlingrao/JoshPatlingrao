@@ -61,6 +61,7 @@ I’m a recent Electronics Engineering graduate who has developed an interest fo
 ### Network
 <div>
   <img src="https://img.shields.io/badge/Wireshark-4A9C2C?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-4A9C2C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer Badge" />
 </div>
 
 ### SIEM
