@@ -20,39 +20,39 @@ I’m a recent Electronics Engineering graduate who has developed an interest fo
 - Disabling unused interface on routers and switches.
 - Using subnetting to efficiently distribute IP addresses among network and host devices.
 
-<a href="https://github.com/JoshPatlingrao/Making-a-SIEM-with-Azure/tree/main">Making a SIEM with Microsoft Azure</a>
+### <a href="https://github.com/JoshPatlingrao/Making-a-SIEM-with-Azure/tree/main">Making a SIEM with Microsoft Azure</a>
 - Creating detection rules for IoCs and configuring its frequency check and severity rating.
 - Creating and a configuring a VM in Microsoft Azure.
 - Fixing RDP connection to prevent it from being publicly exposed and available.
 - Setting up a SIEM using Microsoft Sentinel to monitor the VM as an endpoint.
 
-<a href="https://github.com/JoshPatlingrao/Virtual-Machine-Hardening/tree/main">Linux Virtual Machine Hardening</a>
+### <a href="https://github.com/JoshPatlingrao/Virtual-Machine-Hardening/tree/main">Linux Virtual Machine Hardening</a>
 - Hardening and securing Linux installations
 - Setting up Linux installation and configuration through CLI.
 - Researching online documentation and applying changes based on the current version of the OS.
 - Generating snapshots with brief descriptions as backups.
 
-<a href="https://github.com/JoshPatlingrao/Security-Audit-for-Botium">Security Audit: Botium</a>
+### <a href="https://github.com/JoshPatlingrao/Security-Audit-for-Botium">Security Audit: Botium</a>
 - Analyzing implementation of various security controls.
 - Analyzing company compliance to standards and regulations.
 - Providing recopmmendations to strengthen security posture based on findings.
 
-<a href="https://github.com/JoshPatlingrao/Filtering-SQL-Queries">Applying Filters to SQL Queries</a>
+### <a href="https://github.com/JoshPatlingrao/Filtering-SQL-Queries">Applying Filters to SQL Queries</a>
 - Understanding of SQL database.
 - Filtering information from an SQL database based on set parameters.
 
-<a href="https://github.com/JoshPatlingrao/Update-Files-Through-Python">Updating a File Through Python</a>
+### <a href="https://github.com/JoshPatlingrao/Update-Files-Through-Python">Updating a File Through Python</a>
 - Developing Python scripts to modify the contents of text files.
 - Converting .txt files to string and reverting it back to .txt file.
 
-<a href="https://github.com/JoshPatlingrao/Security-Incident-Response-with-NIST-Cybersecurity-Framework">Incident Response with NIST Cybersecurity Framework</a>
+### <a href="https://github.com/JoshPatlingrao/Security-Incident-Response-with-NIST-Cybersecurity-Framework">Incident Response with NIST Cybersecurity Framework</a>
 - Responding to a security incident using the NIST cybersecurity framework
 - Writing an effective summary of security incident
 - Concisely identifying source of the incident
 - Record the protections deployed, detection methods and reponse of the team to the incident
 - Outline the steps taken to recover from the incident
 
-<a href="https://github.com/JoshPatlingrao/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
+### <a href="https://github.com/JoshPatlingrao/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>
 - Assessing the risk of threats to a system based on likelihood and severity
 - Recommending remediations to vulnerabilities based on identified threats
 
