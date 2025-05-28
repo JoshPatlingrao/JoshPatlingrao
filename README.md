@@ -14,7 +14,7 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 I’m a recent Electronics Engineering graduate who has developed an interest for cybersecurity. I’m passionate about transitioning into cybersecurity to apply my technical skills and analytical mindset to protecting critical systems and data from emerging threats. I'm specifically aiming to be an SOC Tier 1 Analyst.
 
 ## Projects and Skills
-<a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">**Simulating a Home Network**</a>
+<a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">### Simulating a Home Network</a>
 - Setting hostname and security passwords for routers and switches.
 - Configuring router IP addresses, interface bandwidth and duplex mode.
 - Disabling unused interface on routers and switches.
