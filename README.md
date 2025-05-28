@@ -13,6 +13,11 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 
 I’m a recent Electronics Engineering graduate who has developed an interest for cybersecurity. I’m passionate about transitioning into cybersecurity to apply my technical skills and analytical mindset to protecting critical systems and data from emerging threats. I'm specifically aiming to be an SOC Tier 1 Analyst.
 
+## Experience
+### Hack the Box: Windows Attack & Defense
+- Learned how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
+- This includes: Kerberoasting / AS-REProasting / GPP Passwords / GPO Permissions / Credentials in Shares / Credentials in Object Properties / DCSync / Golden Ticket / Kerberos Constrained Delegation / Print Spooler & NTLM Replaying / Coercing Attacks & Unconstrained Delegation / Object ACLs / PKI - ESC1
+
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
 - Setting hostname and security passwords for routers and switches.
