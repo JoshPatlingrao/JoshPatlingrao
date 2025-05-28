@@ -16,7 +16,7 @@ I’m a recent Electronics Engineering graduate who has developed an interest fo
 ## Experience
 ### Hack the Box: Windows Attack & Defense
 - Learned how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
-- This includes: Kerberoasting / AS-REProasting / GPP Passwords / GPO Permissions / Credentials in Shares / Credentials in Object Properties / DCSync / Golden Ticket / Kerberos Constrained Delegation / Print Spooler & NTLM Replaying / Coercing Attacks & Unconstrained Delegation / Object ACLs / PKI - ESC1
+- Kerberoasting | AS-REProasting | GPP Passwords | GPO Permissions | Credentials in Shares | Credentials in Object Properties | DCSync | Golden Ticket | Kerberos Constrained Delegation | Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Object ACLs | PKI - ESC1
 
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
