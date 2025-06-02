@@ -4,14 +4,9 @@
 
 ## Brief Introduction
 
-I'm a recent engineering graduate with a profound interest in technology and a dedication to solving complex problems.
-I’m a recent graduate with a degree in Electronics Engineering. Over the course of my studies and hands-on projects, I’ve developed a solid foundation in electronics, systems design, and problem-solving.
+I'm a junior cybersecurity professional with a background in Electronics Engineering. I've turned my passion for technology towards the field of cybersecurity and have developed a strong foundation on networking and cybersecurity concepts.
 
 I’m eager about bringing my strong technical skills, attention to detail, and passion for cybersecurity to a new role where I can contribute to safeguarding information and enhancing security measures.
-
-## Objective
-
-I’m a recent Electronics Engineering graduate who has developed an interest for cybersecurity. I’m passionate about transitioning into cybersecurity to apply my technical skills and analytical mindset to protecting critical systems and data from emerging threats. I'm specifically aiming to be an SOC Tier 1 Analyst.
 
 ## Experience
 ### Hack the Box: Windows Attack & Defense
