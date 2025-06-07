@@ -20,11 +20,10 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 
 | | Windows Attacks | |
 | :-: | :-: | :-: |
-| Kerberoasting | AS-REProasting | GPP Passwords |
+| Kerberoasting & AS-REProasting | PKI - ESC1 | GPP Passwords |
 | GPO Permissions | Credentials in Shares | Credentials in Object Properties |
 | DCSync | Golden Ticket | Kerberos Constrained Delegation |
 | Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Object ACLs |
-| | PKI - ESC1 | |
 
 
 - Kerberoasting | AS-REProasting | GPP Passwords | GPO Permissions | Credentials in Shares | Credentials in Object Properties | DCSync | Golden Ticket | Kerberos Constrained Delegation | Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Object ACLs | PKI - ESC1
