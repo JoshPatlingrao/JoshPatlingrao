@@ -26,19 +26,16 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 | Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Object ACLs |
 
 
---- start-multi-column: ExampleRegion1
-```column-settings
-number of columns: 2
-largest column: left
-```
-
-Text displayed in column 1.
-
---- end-column ---
-
-Text displayed in column 2.
-
---- end-multi-column
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
 
 ### Hack the Box: Intro & Intermediate Network Traffic Analysis
