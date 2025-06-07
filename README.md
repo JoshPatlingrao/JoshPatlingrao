@@ -20,10 +20,10 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 
 | | | | |
 | :-: | :-: | :-: | :-: |
-| Kerberoasting & AS-REProasting | PKI - ESC1 | GPP Passwords | Print Spooler & NTLM Replaying |
-| GPO Permissions | Credentials in Shares | Credentials in Object Properties | Coercing Attacks & Unconstrained Delegation |
-| Object ACLs | DCSync | Golden Ticket | Kerberos Constrained Delegation |
-
+| Kerberoasting & AS-REProasting | PKI - ESC1 | GPP Passwords |
+| GPO Permissions | Credentials in Shares | Credentials in Object Properties |
+| Object ACLs | DCSync | Golden Ticket |
+| Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Kerberos Constrained Delegation |
 
 ### Hack the Box: Intro & Intermediate Network Traffic Analysis
 - Learned how to analyze network packet captures using either TCPDump or WireShark, to detect network abnormalities, link layer attacks and application layer attacks.
