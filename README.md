@@ -18,11 +18,11 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 ### Hack the Box: Windows Attack & Defense
 - Learned how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
 
-| | | Windows Attacks | | |
+| | Windows Attacks| | |
 | :-: | :-: | :-: | :-: | :-: |
-| Kerberoasting | PKI - ESC1 | GPP Passwords | AS-REProasting | Object ACLs |
-| GPO Permissions | Credentials in Shares | Credentials in Object Properties | Coercing Attacks & Unconstrained Delegation | Print Spooler & NTLM Replaying |
-| | DCSync | Golden Ticket | Kerberos Constrained Delegation | |
+| Kerberoasting & AS-REProasting | PKI - ESC1 | GPP Passwords | Print Spooler & NTLM Replaying |
+| GPO Permissions | Credentials in Shares | Credentials in Object Properties | Coercing Attacks & Unconstrained Delegation |
+| Object ACLs | DCSync | Golden Ticket | Kerberos Constrained Delegation |
 
 
 ### Hack the Box: Intro & Intermediate Network Traffic Analysis
