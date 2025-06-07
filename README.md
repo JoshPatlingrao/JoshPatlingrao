@@ -25,6 +25,22 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 | DCSync | Golden Ticket | Kerberos Constrained Delegation |
 | Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Object ACLs |
 
+
+--- start-multi-column: ExampleRegion1
+```column-settings
+number of columns: 2
+largest column: left
+```
+
+Text displayed in column 1.
+
+--- end-column ---
+
+Text displayed in column 2.
+
+--- end-multi-column
+
+
 ### Hack the Box: Intro & Intermediate Network Traffic Analysis
 - Learned how to analyze network packet captures using either TCPDump or WireShark, to detect network abnormalities, link layer attacks and application layer attacks.
 - Network Abnormalities: Fragmentation Attacks | IP Source & Destination Spoofing Attacks | ICMP Tunneling | TCP Connection Hijacking | Malicious TCP Connections
