@@ -19,7 +19,7 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 - Learned how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
 
 | | Windows Attacks | |
-| --- | --- | --- |
+| :-: | :-: | :-: |
 | Kerberoasting | AS-REProasting | GPP Passwords |
 | GPO Permissions | Credentials in Shares | Credentials in Object Properties |
 | DCSync | Golden Ticket | Kerberos Constrained Delegation |
