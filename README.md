@@ -88,6 +88,12 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge" />
 </div>
+
+### OS
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
+  <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" />
+</div>
 <!--
 **JoshPatlingrao/JoshPatlingrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
