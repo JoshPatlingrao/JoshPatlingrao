@@ -91,7 +91,7 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 
 ### OS
 <div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" alt="Windows Badge" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Badge" />
   <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" />
 </div>
 <!--
