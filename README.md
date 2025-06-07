@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/joshua-patlingrao-a824aa1ba/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Brief Introduction
+## Who am I?
 
 I'm a junior cybersecurity professional with a background in Electronics Engineering. I've turned my passion for technology towards the field of cybersecurity and have developed a strong foundation on networking and cybersecurity concepts.
 
@@ -12,6 +12,12 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 ### Hack the Box: Windows Attack & Defense
 - Learned how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
 - Kerberoasting | AS-REProasting | GPP Passwords | GPO Permissions | Credentials in Shares | Credentials in Object Properties | DCSync | Golden Ticket | Kerberos Constrained Delegation | Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Object ACLs | PKI - ESC1
+
+### Hack the Box: Intro & Intermediate Network Traffic Analysis
+- Learned how to analyze network packet captures using either TCPDump or WireShark, to detect network abnormalities, link layer attacks and application layer attacks.
+- Network Abnormalities: Fragmentation Attacks | IP Source & Destination Spoofing Attacks | ICMP Tunneling | TCP Connection Hijacking | Malicious TCP Connections
+- Link Layer Attacks: ARP Spoofing | ARP Scanning | DoS | 802.11 (Wi-Fi) DoS | Rogue AP | Evil-Twin Attack
+- Application Layer Attacks: HTTP/s Service Enumeration | Cross-Site Scripting (XSS) | Code Injection | SSL Renegotiation | DNS Tunneling | Malicious Telnet & UDP Connections | HTTP Header Attack
 
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
@@ -62,6 +68,7 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 <div>
   <img src="https://img.shields.io/badge/Wireshark-4A9C2C?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark Badge" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-4A9C2C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer Badge" />
+  <img src="https://img.shields.io/badge/tcpdump-4A9C2C?style=for-the-badge&logo=gnu&logoColor=white" alt="TCPDump Badge" />
 </div>
 
 ### SIEM
