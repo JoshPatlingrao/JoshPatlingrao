@@ -8,6 +8,12 @@ I'm a junior cybersecurity professional with a background in Electronics Enginee
 
 I’m eager about bringing my strong technical skills, attention to detail, and passion for cybersecurity to a new role where I can contribute to safeguarding information and enhancing security measures.
 
+## Certifications
+<div>
+  <a href="https://www.credly.com/badges/3e2f6a96-cab0-4215-b61c-c667b070c693/public_url"><img src="https://img.shields.io/badge/Security%2B%20SY0--701-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ SY0-701 Badge" /></a>
+  <a href="https://www.credly.com/badges/57db07aa-ec07-4949-a22e-30346dec89ed/public_url"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" /></a>
+</div>
+
 ## Experience
 ### Hack the Box: Windows Attack & Defense
 - Learned how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
@@ -81,12 +87,6 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge" />
-</div>
-
-## Certifications
-<div>
-  <a href="https://www.credly.com/badges/3e2f6a96-cab0-4215-b61c-c667b070c693/public_url"><img src="https://img.shields.io/badge/Security%2B%20SY0--701-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" alt="Security+ SY0-701 Badge" /></a>
-  <a href="https://www.credly.com/badges/57db07aa-ec07-4949-a22e-30346dec89ed/public_url"><img src="https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Badge" /></a>
 </div>
 <!--
 **JoshPatlingrao/JoshPatlingrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
