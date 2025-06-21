@@ -16,16 +16,18 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 
 ## Experience
 ### Hack the Box: Windows Attack & Defense
-- Learned how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
+- Experienced how to execute Active Directory attacks, setup prevention measures, and analysed Windows security logs for traces of the attack.
 - **Windows Attacks**: Kerberoasting | PKI - ESC1 | GPP Passwords | AS-REProasting | GPO Permissions | Credentials in Shares | Credentials in Object Properties | Object ACLs | DCSync | Golden Ticket | Print Spooler & NTLM Replaying | Coercing Attacks & Unconstrained Delegation | Kerberos Constrained Delegation
 
 ### <a href="https://github.com/JoshPatlingrao/HTB-Intro-and-Intermediate-Network-Analysis/tree/main">Hack the Box: Intro & Intermediate Network Traffic Analysis</a>
-- Learned how to analyze network packet captures using either TCPDump or WireShark, to detect network abnormalities, link layer attacks and application layer attacks.
+- Experienced how to analyze network packet captures using either TCPDump or WireShark, to detect network abnormalities, link layer attacks and application layer attacks.
 - **Network Abnormalities**: Fragmentation Attacks | IP Source & Destination Spoofing Attacks | ICMP Tunneling | TCP Connection Hijacking | Malicious TCP Connections
 - **Link Layer Attacks**: ARP Spoofing | ARP Scanning | DoS | 802.11 (Wi-Fi) DoS | Rogue AP | Evil-Twin Attack
 - **Application Layer Attacks**: HTTP/s Service Enumeration | Cross-Site Scripting (XSS) | Code Injection | SSL Renegotiation | DNS Tunneling | Malicious Telnet & UDP Connections | HTTP Header Attack
 
 ### <a href="https://github.com/JoshPatlingrao/HTB-Working-With-IDS-IPS/tree/main">Hack the Box: Working with IDS & IPS</a>
+- Experienced how to use Suricata, Snort, and Zeek to analyse IoCs on known attacks such as WMI Execution, Overpass the Hash and Gootkit's SSL Certificate.
+- Understanding of rule structure and keywords to modify IDS/IPS detection rules.
 
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
