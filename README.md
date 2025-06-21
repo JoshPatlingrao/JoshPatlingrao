@@ -25,6 +25,8 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 - **Link Layer Attacks**: ARP Spoofing | ARP Scanning | DoS | 802.11 (Wi-Fi) DoS | Rogue AP | Evil-Twin Attack
 - **Application Layer Attacks**: HTTP/s Service Enumeration | Cross-Site Scripting (XSS) | Code Injection | SSL Renegotiation | DNS Tunneling | Malicious Telnet & UDP Connections | HTTP Header Attack
 
+### <a href="https://github.com/JoshPatlingrao/HTB-Working-With-IDS-IPS/tree/main">Hack the Box: Working with IDS & IPS</a>
+
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
 - Setting hostname and security passwords for routers and switches.
