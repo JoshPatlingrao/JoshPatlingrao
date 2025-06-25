@@ -29,6 +29,10 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 - Experienced how to use Suricata, Snort, and Zeek to analyse IoCs on known attacks such as WMI Execution, Overpass the Hash and Gootkit's SSL Certificate.
 - Understanding of rule structure and keywords to modify IDS/IPS detection rules.
 
+### <a href="https://github.com/JoshPatlingrao/JavaScript-Deobjuscation/tree/main">Hack the Box: JavaScript Deobfuscation</a>
+- Understanding of code obfuscation through minifying, packing, and encoding through base64, hex and Caesar cipher.
+- Experience with code deobfuscation through beautifying, using deobfuscation tools and decoding.
+
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
 - Setting hostname and security passwords for routers and switches.
