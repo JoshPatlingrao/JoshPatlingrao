@@ -33,6 +33,10 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 - Understanding of code obfuscation through minifying, packing, and encoding through base64, hex and Caesar cipher.
 - Experience with code deobfuscation through beautifying, using deobfuscation tools and decoding.
 
+### <a href="https://github.com/JoshPatlingrao/YARA-and-Sigma-for-SOC/tree/main">Hack the Box: YARA and Sigma</a>
+- Analyzing YARA and running YARA in CMD/PowerShell to analyze captured events.
+- Using 'sigmac' to convert Sigma rules into either commands in a terminal or as a SIEM (Splunk) query and running these rules and queries to detect IoCs in captured traffic. 
+
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
 - Setting hostname and security passwords for routers and switches.
