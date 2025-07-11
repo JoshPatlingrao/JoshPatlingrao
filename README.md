@@ -35,7 +35,11 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 
 ### <a href="https://github.com/JoshPatlingrao/YARA-and-Sigma-for-SOC/tree/main">Hack the Box: YARA and Sigma</a>
 - Analyzing YARA and running YARA in CMD/PowerShell to analyze captured events.
-- Using 'sigmac' to convert Sigma rules into either commands in a terminal or as a SIEM (Splunk) query and running these rules and queries to detect IoCs in captured traffic. 
+- Using 'sigmac' to convert Sigma rules into either commands in a terminal or as a SIEM (Splunk) query and running these rules and queries to detect IoCs in captured traffic.
+
+### <a href="https://github.com/JoshPatlingrao/Detecting-Windows-Attacks-with-Splunk/tree/main">Hack the Box: Detecting Windows Attack with Splunk</a>
+- Analysed malicious software telemetry and Windows Event logs to create Splunk queries that confirm traces and patterns of attacker behaviour.
+- **Windows Attacks**: Password Spraying | User/Domain Recon | Kerberoasting/AS-REProasting | Pass-the-Hash | Pass-the-Ticket | Overpass-the-Hash | Golden/Silver Tickets | Constrained/Unconstrained Delegation Attack | DCSync/DCShadow | RDP Brute Force Attack | Cobalt Strike Beaconing C2/PSExec | Zerologon | Exfiltration (HTTP/DNS) | Ransomware
 
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
