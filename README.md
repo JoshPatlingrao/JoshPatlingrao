@@ -41,6 +41,10 @@ I’m eager about bringing my strong technical skills, attention to detail, and 
 - Analysed malicious software telemetry and Windows Event logs to create Splunk queries that confirm traces and patterns of attacker behaviour.
 - **Windows Attacks**: Password Spraying | User/Domain Recon | Kerberoasting/AS-REProasting | Pass-the-Hash | Pass-the-Ticket | Overpass-the-Hash | Golden/Silver Tickets | Constrained/Unconstrained Delegation Attack | DCSync/DCShadow | RDP Brute Force Attack | Cobalt Strike Beaconing C2/PSExec | Zerologon | Exfiltration (HTTP/DNS) | Ransomware
 
+### <a href="https://github.com/JoshPatlingrao/Intro-to-Digital-Forensics/tree/main">Hack the Box: Intro to Digital Forensics</a>
+- Analysed Windows artifacts through Velociraptor and detected a process that has been hijacked by a malicious software.
+- Used Volatility V3 to analyse how a software from an unknown source performed a process injection on legitimate processes.
+
 ## Projects and Skills
 ### <a href="https://github.com/JoshPatlingrao/Simulating-a-Home-Network/blob/main/README.md">Simulating a Home Network</a>
 - Setting hostname and security passwords for routers and switches.
